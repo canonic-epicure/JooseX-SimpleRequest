@@ -1,0 +1,4 @@
+.gitignore
+lib/JooseX/SimpleRequest.js
+MANIFEST			This list of files
+README
