@@ -1,13 +1,13 @@
-use Module::Build::JSAN::Installable;
+use inc::Module::JSAN::DSL;
 
-my $build = Module::Build::JSAN::Installable->new(
-	module_name    => 'JooseX.SimpleRequest',
-	create_makefile_pl => 'passthrough',
-	dist_version   => 0.01,
-	dist_author   => 'SamuraiJack',
-	dist_abstract  => "Simple XHR request abstraction",
-	license        => 'perl',
-);
+name            JooseX.SimpleRequest
 
-$build->create_build_script;
+version         0.01
+author          'Malte Ubl'
+author          'Nickolay (SamuraiJack) Platonov <root@symbie.org>'
 
+abstract        'Simple XHR request abstraction'
+license         bsd
+
+
+requires        Joose   3.001
