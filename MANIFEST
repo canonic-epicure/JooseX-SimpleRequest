@@ -1,1 +1,14 @@
+.gitignore
+doc/html/JooseX/SimpleRequest.html
+doc/mmd/JooseX/SimpleRequest.txt
+inc/Module/Build/Functions.pm
+inc/Module/Build/Functions/DSL.pm
+inc/Module/Build/JSAN.pm
+inc/Module/Build/JSAN/Installable.pm
+inc/Module/JSAN.pm
+inc/Module/JSAN/DSL.pm
+INSTALL
+lib/JooseX/SimpleRequest.js
+MANIFEST
 META.json
+README.md

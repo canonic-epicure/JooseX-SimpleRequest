@@ -48,6 +48,6 @@
 ^Build.PL$
 .tar.gz$
 ^tests/lib/
-JooseX.SimpleRequest-0.01
 \.project$
 ^\.git\b
+^MYMETA.yml$

@@ -4,3 +4,6 @@ blib
 .project
 .externalToolBuilders
 MANIFEST.bak
+/inc/*
+/doc/*
+JooseX.SimpleRequest-*.tar.gz

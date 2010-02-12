@@ -15,8 +15,14 @@
    ],
    "license" : "bsd",
    "static_dir" : "static",
+   "provides" : {
+      "JooseX.SimpleRequest" : {
+         "version" : null,
+         "file" : "lib/JooseX/SimpleRequest.js"
+      }
+   },
    "requires" : {
-      "Joose" : "3.001"
+      "Joose" : "3.005"
    },
    "abstract" : "Simple XHR request abstraction"
 }

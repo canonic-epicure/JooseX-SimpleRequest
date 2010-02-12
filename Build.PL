@@ -10,7 +10,7 @@ abstract        'Simple XHR request abstraction'
 license         bsd
 
 
-requires        Joose   3.001
+requires        Joose   3.005
 
 
 docs_markup     mmd
