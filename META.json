@@ -1,0 +1,22 @@
+{
+   "resources" : {
+      "license" : "http://www.opensource.org/licenses/bsd-license.php"
+   },
+   "generated_by" : "Module::Build version 0.3601",
+   "meta-spec" : {
+      "version" : "1.4",
+      "url" : "http://module-build.sourceforge.net/META-spec-v1.4.html"
+   },
+   "version" : "0.01",
+   "name" : "JooseX.SimpleRequest",
+   "author" : [
+      "Malte Ubl",
+      "Nickolay (SamuraiJack) Platonov <root@symbie.org>"
+   ],
+   "license" : "bsd",
+   "static_dir" : "static",
+   "requires" : {
+      "Joose" : "3.001"
+   },
+   "abstract" : "Simple XHR request abstraction"
+}

@@ -11,3 +11,7 @@ license         bsd
 
 
 requires        Joose   3.001
+
+
+docs_markup     mmd
+
