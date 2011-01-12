@@ -2,6 +2,8 @@ Release history for JooseX.SimpleRequest
 
 {{$NEXT}}
 
+        - re-release just to pick up the new markdown css styles, no functional changes
+
 0.2.1     2010-12-14 20:18
 
         - some docs update
